@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arindam Tanti</h1>
-<h3 align="center">Make-Shifter, Technology Enthusiast. Passionate about learning new technology.</h3>
+<h3 align="center"> ⚡ Make-Shifter | 🖥️ Tech Geek | ❤️ Learning About Computers, Hacks About Them</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source, Real World Problem, Network and Pentesting**
 
-- 💬 Ask me about **Linux, Python, System Design, Protocols, Virtualization, NAS, Network Protocols**
+- 💬 Ask me about **Linux, Python, System Design, Protocols, Virtualization, NAS, Chatbot, Network Protocols**
 
 - 📫 How to reach me **arindamtanti123@gmail.com**
 
