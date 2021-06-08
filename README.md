@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arindam Tanti</h1>
+<h1 align="center">Hi 👋, I'm Arindam</h1>
 <h3 align="center"> ⚡ Make-Shifter | 🖥️ Tech Geek | ❤️ Learning About Computers, Hacks About Them</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost" /> </p>
