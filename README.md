@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arindamtanti123@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/iyptfo](https://rb.gy/iyptfo)
+- 📄 Know about my experiences [Click To Get My Resume](https://rb.gy/iyptfo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
