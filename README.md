@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently occupied in  learing **Data Structures And Algorithm, HLD, LLD, Data Analysis, Cloud Solutions**
 
-- 👯 I’m looking to collaborate on **Open Source Contibutions, Be a Part Of Startup, Networking, Making Something From Scratch  **
+- 👯 I’m looking to collaborate on **Open Source Contibutions, Be a Part Of Startup, Networking, Making Something From Scratch**
 
 - 💬 Ask me about **Linux, Python, System Design, Virtualization, Networking**
 
