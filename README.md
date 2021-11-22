@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arindam Tanti</h1>
-<h3 align="center">Make-Shifter, Technology Enthusiast. Passionate about learning new technology.</h3>
+<h3 align="center">Make-Shifter, Technology Enthusiast. Passionate Tp Learning Everyday Something New </h3>
+
+<h4 align="center">C++, Python, RDBSM, Storage System, Linux, Troubleshooting, NoSQL, Java </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost" /> </p>
 
 - 🔭 I’m currently working on [Dell NAS Solution](https://www.dell.com/downloads/global/products/pvaul/en/fluid_fs_overview.pdf)
 
-- 🌱 I’m currently learning **DevOps, Machine Leaning, Data Analysis, Django**
+- 🌱 I’m currently occupied in  learing **Data Structures And Algorithm, HLD, LLD, Data Analysis, Cloud Solutions**
 
-- 👯 I’m looking to collaborate on **Open Source, Real World Problem, Network and Pentesting**
+- 👯 I’m looking to collaborate on **Open Source Contibutions, Be a Part Of Startup, Networking, Making Something From Scratch  **
 
-- 💬 Ask me about **Linux, Python, System Design, Protocols, Virtualization**
+- 💬 Ask me about **Linux, Python, System Design, Virtualization, Networking**
 
 - 📫 How to reach me **arindamtanti123@gmail.com**
 
