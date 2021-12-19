@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arindamtanti123@gmail.com**
 
-- 📄 Know about my experiences [Click To Get My Resume](shorturl.at/jAJP8)
+- 📄 Know about my experiences [Click To Get My Resume](https://shorturl.at/jAJP8)
 
 - 🌐 Portfolio Website : [Click Here](https://i-am-ghost.github.io/i-Am-GhOsT/)
 
