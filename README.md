@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arindamtanti123@gmail.com**
 
-- 📄 Know about my experiences [Click To Get My Resume](https://drive.google.com/file/d/1Oluo0zHa5ZzsEJYH1wHEGKYJx14H6Ykf/view?usp=sharing)
+- 📄 Know about my experiences [Click To Get My Resume](https://drive.google.com/file/d/11BQT7zpyBf37tHzcq04-GzCv1iaAFY6u/view?usp=sharing)
 
 - 🌐 Portfolio Website : [Click Here](https://i-am-ghost.github.io/i-Am-GhOsT/)
 
