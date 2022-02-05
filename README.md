@@ -37,6 +37,9 @@
         <p>
 </div>
 
+<h3 align="Left">
+    <em>Socials</em>
+</h3>
 
 [![Linkedin: Arindam Tanti](https://img.shields.io/badge/-Arindam%20Tanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arindam-tanti/)](https://linkedin.com/in/arindam-tanti/)
 <a href="https://github.com/i-Am-GhOsT"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -48,24 +51,7 @@
 
 ### <img src="gifs/flying%20swag.gif" width="28"> A little more about me...
 
------
-<div align="center">
-    <img src="gifs/baby%20ironman%20flying.gif" width="50px">
-    <h5>
-        "Jack of All Trades, Master Of None"
-    </h5>
-</div>
-    
-
-
 ---
-<br>
-
-
-
-
-
-<br>
 
 - 🎓 B.Tech in 👨🏻‍💻 Computer Science And Enginnering.
 
@@ -144,17 +130,12 @@ s</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost" /></p>
 
-
-<h3 align="center">
-    Connect With Me
-</h3>
-<p align="center">
-<a href="https://dev.to/arindam_tanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arindam_tanti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arindam-tanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-tanti" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arindamtanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arindamtanti" height="30" width="40" /></a>
-</p>
-
 ---
 <div align="center">
-<img height="150" width="130" src ="gifs/baby ironman.gif">
+    <img height="150" width="100" src="gifs/baby%20ironman%20flying.gif" width="50px">
+    <h5 align="center">
+        "Jack of All Trades, Master Of None"
+    </h5>
 </div>
+
+---
