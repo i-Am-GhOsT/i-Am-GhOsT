@@ -132,9 +132,20 @@ s</p>
 ---
 <div align="center">
     <img height="150" width="100" src="gifs/baby%20ironman%20flying.gif" width="50px">
-    <h5 align="center">
-        "Jack of All Trades, Master Of None"
-    </h5>
+    <p>_______________</p>
+    <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+    <em>
+        <b>
+            I love connecting with different people.
+        </b> 
+        Also if you want to say 
+        <b>
+            hi, I'll be happy to meet you more!
+        </b> 
+        :)
+    </em>
 </div>
 
 ---
+
+⭐️ From [@Arindam](https://github.com/i-am-ghost)
