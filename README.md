@@ -39,7 +39,6 @@
 
 
 [![Linkedin: Arindam Tanti](https://img.shields.io/badge/-Arindam%20Tanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arindam-tanti/)](https://linkedin.com/in/arindam-tanti/)
-
 <a href="https://github.com/i-Am-GhOsT"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/arindam_tanti?style=social)](https://twitter.com/Arindam_Tanti)
