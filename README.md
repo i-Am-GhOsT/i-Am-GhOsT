@@ -49,11 +49,11 @@
 
 >Intermediate level software engineer, who is able to build a web/stand-alone application from the ground up - starting from collecting requirements specification, planning and building layout, system design and programming, project management.
 
-> Skilled at writing well-designed, testable and efficient code using current best practices in application/web development.
+> Skilled at writing well-designed, testable and efficient code using current best practices in application/web development. Optimistic, self-taught programmer.
 
-> Team player who is proficient in an array of scripting & programming languages and tools. Also aware of Agile and Scrum Models, and have expertise in DevOps/ Release Engineering. 
+> Team player who is proficient in an array of scripting & programming languages, automation and tools. Also aware of agile, scrum sprint, waterfall. have expertise in DevOps/ Release Engineering. 
 
-> Excellent at design & coding skills, as well as ability to convert requirements into exciting online/stand-alone applications. Optimistic, self-taught programmer.
+> Excellent at converting requirements into exciting and specified online/stand-alone applications.
 
 > I love to take challenges which helps me to focus and grow. In free time I love playing 🎮Call Of Duty, ⚽Fifa, 🏍️Riding Bike, listen to songs. I also play 🎸guitar. Currently I am getting interested On Crypto Currency And BlockChains.
 
