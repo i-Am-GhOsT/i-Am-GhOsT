@@ -19,7 +19,7 @@
         Arindam Tanti
     </a>
 </h2>
-<img align='right' src="gifs/side%20banner.gif" width="280">
+<img align='right' src="gifs/side%20banner.gif" width="380">
 
 
 <p>
