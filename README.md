@@ -1,8 +1,3 @@
-
-
-
-
-
 <p align="center">
     <img width="100px" src="gifs/profile.svg" align="center" alt="Github Readme Stats" />
     <h3 align="center" style="font-weight:bold">
@@ -49,6 +44,10 @@
 </h3>
 
 ### <img src="gifs/flying%20swag.gif" width="28"> A little more about me...
+
+<br>
+
+>Intermediate level software engineer, who is able to build a web/stand-alone application from the ground up - starting from collecting requirements specification, planning and building layout, system design and programming, project management. Skilled at writing well-designed, testable and efficient code using current best practices in application/web development. Fast learner, hard worker and team player who is proficient in an array of scripting & programming languages and tools. Also aware of Agile and Scrum Model, and have expertise in DevOps/ Release Engineering. Excellent at design & coding skills, as well as ability to convert requirements into exciting online/stand-alone applications. Optimistic, self-taught programmer, who is always excited to learn something new on daily basis in the field of computer, science and technology. I'm fond of scientific explanations and realistic approach to any problem. I love to take challenges which helps me to focus and grow. In free time I love playing Call Of Duty, Fifa, Riding Bike, listen to metal songs. I also play guitar. 
 
 ---
 
@@ -144,6 +143,7 @@ s</p>
         </b> 
         :)
     </em>
+    
 </div>
 
 ---
