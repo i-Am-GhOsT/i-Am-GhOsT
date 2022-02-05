@@ -43,7 +43,7 @@
 <h3 align="center">
 </h3>
 
-### <img src="gifs/flying%20swag.gif" width="28"> A little more about me...
+## <img src="gifs/flying%20swag.gif" width="28"> A little more about me...
 
 <br>
 
