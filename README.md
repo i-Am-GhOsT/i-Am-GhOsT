@@ -11,7 +11,6 @@
 </p>
 
 ---
----
 
 <h2>
     नमस्ते (Namaste)🙏🏻<img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="65px">, I'm 
@@ -37,9 +36,9 @@
         <p>
 </div>
 
-<h3 align="Left">
+<p align="Left">
     <em>Socials</em>
-</h3>
+</p>
 
 [![Linkedin: Arindam Tanti](https://img.shields.io/badge/-Arindam%20Tanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arindam-tanti/)](https://linkedin.com/in/arindam-tanti/)
 <a href="https://github.com/i-Am-GhOsT"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
