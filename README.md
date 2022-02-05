@@ -46,16 +46,16 @@
 <h3 align="center">
 </h3>
 
-### <img src="gifs/baby%20ironman.gif" width="28"> A little more about me...
------
+### <img src="gifs/flying%20swag.gif" width="28"> A little more about me...
 
- 
+-----
 <div align="center">
     <img src="gifs/baby%20ironman%20flying.gif" width="50px">
-    <p>
+    <h5>
         "Jack of All Trades, Master Of None"
-    </p>
+    </h5>
 </div>
+    
 
 
 ---
