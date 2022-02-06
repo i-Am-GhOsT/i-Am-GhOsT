@@ -160,7 +160,7 @@
 <b align="center">Already Pinned Down for you sire!</b>
 
 <br>
-<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" href="https://github.com/i-Am-GhOsT?tab=repositories">
 </p>
 
 ⭐️ By [@Arindam](https://github.com/i-am-ghost)
