@@ -159,9 +159,12 @@
 
 <br>
 <div align="center">
+    <inline>Click The Astronaut</inline>
+    <br>
     <a href="https://github.com/i-Am-GhOsT?tab=repositories">
         <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="300">
     </a>
+    <br>
 </div>
 <br>
 
