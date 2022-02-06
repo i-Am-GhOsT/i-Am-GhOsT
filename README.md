@@ -134,7 +134,15 @@ s</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost" /></p>
 
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+
 ---
+
 <div align="center">
     <img height="150" width="100" src="gifs/baby%20ironman%20flying.gif" width="50px">
     <p>_______________</p>
