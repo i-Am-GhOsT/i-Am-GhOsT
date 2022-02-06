@@ -134,13 +134,13 @@ s</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost" /></p>
 
-<!--RECENT_ACTIVITY:last_update-->
+---
 
-<!--RECENT_ACTIVITY:last_update_end-->
+### :zap: Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:end-->
+<!--END_SECTION:activity-->
 
 ---
 
