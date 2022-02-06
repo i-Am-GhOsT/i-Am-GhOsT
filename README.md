@@ -71,6 +71,26 @@
 
 - 🌐 [**Portfolio Website**](https://github.com/i-Am-GhOsT)
 
+---
+
+### **:briefcase: My Projects**:
+
+<br>
+<div align="center">
+    <inline>Click The Astronaut</inline>
+    <br>
+    <a href="https://github.com/i-Am-GhOsT?tab=repositories">
+        <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="300">
+    </a>
+    <br>
+    <br>
+    <inline>Click Dexter For Study Material</inline>
+    <br>
+    <a href="https://github.com/i-Am-GhOsT/GhostVerse">
+        <img alt="Astronaut pointing downwards GIF" src="gifs/dexter%20starter.gif" width="300">
+    </a>
+</div>
+<br>
 
 ### **Languages and Tools**
 
@@ -153,20 +173,6 @@
     
 </div>
 
----
-
-### **:briefcase: My Projects**:
-
-<br>
-<div align="center">
-    <inline>Click The Astronaut</inline>
-    <br>
-    <a href="https://github.com/i-Am-GhOsT?tab=repositories">
-        <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="300">
-    </a>
-    <br>
-</div>
-<br>
 
 ⭐️ By [@Arindam](https://github.com/i-am-ghost)
 
