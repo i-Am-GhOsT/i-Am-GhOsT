@@ -154,16 +154,16 @@
 </div>
 
 ---
-#### My Projects:
-<p align="center">
 
-<b align="center">Already Pinned Down for you sire!</b>
+### **:briefcase: My Projects**:
 
 <br>
-<a href="https://github.com/i-Am-GhOsT?tab=repositories">
-    <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
-</a>
-</p>
+<div align="center">
+    <a href="https://github.com/i-Am-GhOsT?tab=repositories">
+        <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="300">
+    </a>
+</div>
+<br>
 
 ⭐️ By [@Arindam](https://github.com/i-am-ghost)
 
