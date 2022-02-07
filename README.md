@@ -76,7 +76,7 @@
 
 ---
 
-### **:briefcase: My Projects**:
+## **:briefcase: My Projects**:
 
 <br>
 <div align="center">
@@ -95,7 +95,7 @@
 </div>
 <br>
 
-### **Languages and Tools**
+## **Languages and Tools**
 
 ---
 
