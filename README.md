@@ -72,7 +72,7 @@
 
 - 📄 [**Resume**](https://drive.google.com/file/d/11BQT7zpyBf37tHzcq04-GzCv1iaAFY6u/view?usp=sharing)
 
-- 🌐 [**Portfolio Website**](https://github.com/i-Am-GhOsT)
+- 🌐 [**Portfolio Website**](index.html)
 
 ---
 
