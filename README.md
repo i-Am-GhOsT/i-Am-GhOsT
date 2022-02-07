@@ -176,7 +176,8 @@
     
 </div>
 
+<br>
 
-:fire: By [@Arindam](https://github.com/i-am-ghost)
+:fire: By [@Arindam](https://linkedin.com/in/arindam-tanti/)
 
 :star: If You Like This ReadMe Temeplate, Please give provide a star. You can fork it and make your own version.
