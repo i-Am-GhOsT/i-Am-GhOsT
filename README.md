@@ -57,13 +57,16 @@
 
 ---
 
-- 🎓 B.Tech in 👨🏻‍💻 Computer Science And Enginnering.
+- 🎓 B.Tech in 👨🏻‍💻 Computer Science And Engineering.
 
-- 🌱 I’m currently learning **DSA, HLD, LLD, System Design**
+- 🌱 I’m currently learning **Data Structure & Algorithms, HLD, LLD, System Design**
 
 - 👯 I’m looking to collaborate on **Open Source Contibutions, Be a Part Of Startup, Making Something From Scratch, Build a Side Hustle/ a Business**
 
-- 💬 Ask me about **OS, Virtualization, Networking, Auotmation, C++, OOPs, VCS, Data Ware Housing, ETL, OS, DevOps**
+- 💬 Ask me about **Operating System, Virtualization, Networking, OOPs, Data Ware Housing, ETL, DevOps, Auomation, Linux Administration, Anything related to Computers and technology**
+
+- :clipboard: [**Practicing Leetcode Problems**](https://docs.google.com/spreadsheets/d/1ZLtG94a_BBog8glO_CQPunB8DAXOd99qtPNT-p3gw3A/edit#gid=0), looking for contibution partner.
+
 
 - 📫 [**Mail**](mailto:arindamtanti123@gmail.com)
 
@@ -174,6 +177,6 @@
 </div>
 
 
-⭐️ By [@Arindam](https://github.com/i-am-ghost)
+:fire: By [@Arindam](https://github.com/i-am-ghost)
 
-⭐️ If You Like This ReadMe Temeplate,Please Give it a Star And Fork It And Make Your Own Version.
+:star: If You Like This ReadMe Temeplate, Please give provide a star. You can fork it and make your own version.
