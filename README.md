@@ -59,9 +59,9 @@
 
 - 🎓 B.Tech in 👨🏻‍💻 Computer Science And Engineering.
 
-- 🌱 I’m currently learning **Data Structure & Algorithms, HLD, LLD, System Design**
+- 🌱 I’m currently learning **Data Structure & Algorithms, HLD, LLD, System Design, Data Science**
 
-- 👯 I’m looking to collaborate on **Open Source Contibutions, Be a Part Of Startup, Making Something From Scratch, Build a Side Hustle/ a Business**
+- 👯 I’m looking to collaborate on **Open Source Contibutions, Be a Part Of Startup, Making Something From Scratch, Build a side Hustle/ a business**
 
 - 💬 Ask me about **Operating System, Virtualization, Networking, OOPs, Data Ware Housing, ETL, DevOps, Auomation, Linux Administration, Anything related to Computers and technology**
 
