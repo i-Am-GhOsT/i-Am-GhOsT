@@ -178,6 +178,6 @@
 
 <br>
 
-:fire: By [@Arindam](https://linkedin.com/in/arindam-tanti/)
+:fire: Created By [@Arindam](https://linkedin.com/in/arindam-tanti/)
 
-:star: If You Like This ReadMe Temeplate, Please give provide a star. You can fork it and make your own version.
+:heart: If You Loved my ReadMe Temeplate, Please give provide a :star:. You can fork it :wink: and make your own version :smile:.
