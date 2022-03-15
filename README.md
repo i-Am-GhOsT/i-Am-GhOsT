@@ -70,7 +70,7 @@
 
 - 📫 [**Mail**](mailto:arindamtanti123@gmail.com)
 
-- 📄 [**Resume**](https://drive.google.com/file/d/11BQT7zpyBf37tHzcq04-GzCv1iaAFY6u/view?usp=sharing)
+- 📄 [**Resume**](https://bit.ly/34ORPCg)
 
 - 🌐 [**Portfolio Website**](https://github.com/i-Am-GhOsT)
 
