@@ -89,7 +89,7 @@
     <br>
     <inline>Click Dexter For Study Material</inline>
     <br>
-    <a href="https://github.com/i-Am-GhOsT/GhostVerse">
+    <a href="https://i-am-ghost.github.io/GhostVerse/">
         <img alt="Astronaut pointing downwards GIF" src="gifs/dexter%20starter.gif" width="300">
     </a>
 </div>
