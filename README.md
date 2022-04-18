@@ -63,7 +63,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Contibutions, Be a Part Of Startup, Making Something From Scratch, Build a side Hustle/ a business**
 
-- 💬 Ask me about **Operating System, Virtualization, Networking, OOPs, Data Ware Housing, ETL, DevOps, Auomation, Linux Administration, Anything related to Computers and technology**
+- 💬 Ask me about **Operating System, Virtualization, Networking, OOPs, Data Ware Housing, ETL, DevOps, Automation, Linux Administration, Anything related to Computers and technology**
 
 - :clipboard: [**Practicing Leetcode Problems**](https://docs.google.com/spreadsheets/d/1ZLtG94a_BBog8glO_CQPunB8DAXOd99qtPNT-p3gw3A/edit#gid=0), looking for contibution partner.
 
