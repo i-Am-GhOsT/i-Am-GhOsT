@@ -1,6 +1,6 @@
 
 <div align="center">    
-    <img width="200px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" alt="Github Readme Stats"/>
+    <img width="100px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" alt="Github Readme Stats"/>
     <h3>
         <a href="https://i-am-ghost.github.io/GhostVerse/" style="font-weight:bold">
            About Gh05t
