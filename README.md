@@ -1,11 +1,18 @@
-<p align="center">
-    <img width="100px" src="gifs/profile.svg" align="center" alt="Github Readme Stats" />
-    <h3 align="center" style="font-weight:bold">
-        Profile
+
+<div align="center">    
+    <img width="200px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" alt="Github Readme Stats"/>
+    <h3>
+        <a href="https://i-am-ghost.github.io/GhostVerse/" style="font-weight:bold">
+           About Gh05t
+        </a>
     </h3>
-</p>
+</div>
 
 ---
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&height=35&lines=+Hey!+Welcome+To+My+Github+Profile...)](https://git.io/typing-svg)
+---
+
 
 <h2>
     नमस्ते (Namaste)🙏🏻<img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="65px">, I'm 
@@ -18,27 +25,45 @@
 
 <p>
     <em>
-        Senior Software Engineer at 
-        <a href="https://www.capgemini.com/in-en/" style="font-weight:bold">
-            Capgemini
-        </a>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+        Software & DevOps Engineer 
     </em>
+    <h5>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+        Worked At
+    </h5>
+    <div style="font-weight:bold;">
+        <ul>
+            <li>
+                <a href="https://www.vmware.com">
+                VMWare
+                </a>
+            </li>
+            <li>
+                <a href="https://www.capgemini.com/in-en/" >
+                Capgemini 
+                </a>
+            </li>
+        </ul>
+    </div>
+    
 </p>
-<div>
-    <p>  
-        <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost"/>
-        <p>
+
+<h5 align="Left" style="font-weight:bold">
+    <em>Socials</em>
+</h5>
+<div>  
+    <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost"/>
 </div>
 
-<p align="Left">
-    <em>Socials</em>
-</p>
 
-[![Linkedin: Arindam Tanti](https://img.shields.io/badge/-Arindam%20Tanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arindam-tanti/)](https://linkedin.com/in/arindam-tanti/)
-<a href="https://github.com/i-Am-GhOsT"><img src="https://img.shields.io/github/followers/i-am-ghost.svg?label=i-Am-GhOsT&style=social" alt="GitHub"></a>
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/arindam_tanti?style=social)](https://twitter.com/Arindam_Tanti)
+<a href="https://linkedin.com/in/arindam-tanti/">
+    <img src="https://img.shields.io/badge/-Arindam%20Tanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arindam-tanti/">
+</a>
+<a href="https://github.com/i-Am-GhOsT">
+    <img src="https://img.shields.io/github/followers/i-am-ghost.svg?label=i-Am-GhOsT&style=social" alt="GitHub"></a>
+<a href="https://twitter.com/Arindam_Tanti">
+    <img src="https://img.shields.io/twitter/follow/arindam_tanti?style=social">
+</a>
 
 
 ## <img src="gifs/flying%20swag.gif" width="28"> A little more about me...
