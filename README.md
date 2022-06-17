@@ -90,9 +90,7 @@
 
 ## **:briefcase: My Projects**:
 
-<p style="text-decoration: blink">
-        Click On Logos To Re-direct To The Project
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=1D11F7&center=true&vCenter=true&multiline=true&lines=Click+Logos+%26+Get+Re-direct+To+Project)](https://git.io/typing-svg)
 <div align="center">
 <table>
     <tr align="center">
