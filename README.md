@@ -101,7 +101,7 @@
     <tr align="center">
         <td>
             <a href="https://i-am-ghost.github.io/GhostVerse/">
-                <img src="https://www.therelicans.com/images/E4EjG-cvVLcMw7RdSa5TDD9N7NbF3mo91k4-FWFCLZ4/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvMXYw/ZzlpdmoyOWFidmli/N3dldHQuanBn" style="height:80px; width:65px;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJknlnLdacnlXfF8PrSdaihxTu4G4rWFWjgQ&usqp=CAU" style="height:80px; width:65px;">
             </a>
         </td>
         <td> CSE Fundamentals & Tech Blogs </td>
