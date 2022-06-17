@@ -1,6 +1,8 @@
 
+---
+
 <div align="center">    
-    <img width="100px" height="100px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" alt="Github Readme Stats"/>
+    <img width="180px" height="220px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" alt="Github Readme Stats"/>
     <h3>
         <a href="https://i-am-ghost.github.io/GhostVerse/" style="font-weight:bold">
            About Gh05t
@@ -24,47 +26,32 @@
 
 
 <p>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     <em>
         Software & DevOps Engineer 
     </em>
-    <h5>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-        Worked At
-    </h5>
-    <div style="font-weight:bold;">
-        <ul>
-            <li>
-                <a href="https://www.vmware.com">
-                VMWare
-                </a>
-            </li>
-            <li>
-                <a href="https://www.capgemini.com/in-en/" >
-                Capgemini 
-                </a>
-            </li>
-        </ul>
-    </div>
-    
 </p>
-
-<h5 align="Left" style="font-weight:bold">
-    <em>Socials</em>
-</h5>
 <div>  
     <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost"/>
 </div>
 
-
+---
+<h5 align="Left" style="font-weight:bold">
+    <em>
+        Socials
+    </em>
+</h5>
 <a href="https://linkedin.com/in/arindam-tanti/">
     <img src="https://img.shields.io/badge/-Arindam%20Tanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arindam-tanti/">
 </a>
 <a href="https://github.com/i-Am-GhOsT">
-    <img src="https://img.shields.io/github/followers/i-am-ghost.svg?label=i-Am-GhOsT&style=social" alt="GitHub"></a>
+    <img src="https://img.shields.io/github/followers/i-am-ghost.svg?label=i-Am-GhOsT&style=social" alt="GitHub">
+</a>
 <a href="https://twitter.com/Arindam_Tanti">
     <img src="https://img.shields.io/twitter/follow/arindam_tanti?style=social">
 </a>
 
+---
 
 ## <img src="gifs/flying%20swag.gif" width="28"> A little more about me...
 
@@ -76,9 +63,9 @@
 
 > 🎯 Team player who is proficient in an array of scripting & programming languages, automation and tools. Also aware of agile, scrum sprint, waterfall. have expertise in DevOps/ Release Engineering. 
 
-> 📝Excellent at converting requirements into exciting and specified online/stand-alone applications.
+> 📝 Excellent at converting requirements into exciting and specified online/stand-alone applications.
 
-> ❤️ I love taking challenges which helps me to focus and grow. In free time I love playing 🎮Call Of Duty, ⚽Fifa, 🏍️Riding Bike, listen to songs. I also play 🎸guitar. Currently I am getting interested into 💰 Crypto Currency And BlockChains and 🪐 metaverse.
+> ❤️ I love taking challenges which helps me to focus and grow. In free time I love playing 🎮Call Of Duty, ⚽ FIFA, 🏍️ Riding Bike, listen to songs. I also play 🎸 guitar. Currently I am getting interested into 💰 Crypto Currency And BlockChains and 🪐 metaverse.
 
 ---
 
@@ -103,20 +90,31 @@
 
 ## **:briefcase: My Projects**:
 
-<br>
+<p style="text-decoration: blink">
+        Click On Logos To Re-direct To The Project
+</p>
 <div align="center">
-    <inline>Click The Astronaut For Projects</inline>
-    <br>
-    <a href="https://github.com/i-Am-GhOsT?tab=repositories">
-        <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="300">
-    </a>
-    <br>
-    <br>
-    <inline>Click Dexter For Study Material</inline>
-    <br>
-    <a href="https://i-am-ghost.github.io/GhostVerse/">
-        <img alt="Astronaut pointing downwards GIF" src="gifs/dexter%20starter.gif" width="300">
-    </a>
+<table>
+    <tr align="center">
+       <th>Title</th>
+       <th>Desciption</th>
+       <th>Status</th> 
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="https://i-am-ghost.github.io/GhostVerse/">
+                <img src="https://www.therelicans.com/images/E4EjG-cvVLcMw7RdSa5TDD9N7NbF3mo91k4-FWFCLZ4/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvMXYw/ZzlpdmoyOWFidmli/N3dldHQuanBn" style="height:80px; width:65px;">
+            </a>
+        </td>
+        <td> CSE Fundamentals & Tech Blogs </td>
+        <td></td>
+    </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 </div>
 <br>
 
