@@ -142,7 +142,7 @@
     <tr align="center">
         <td>
             <a href="https://i-am-ghost.github.io/i-Am-GhOsT/">
-                <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="height:80px; width:80px;">
+                <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="70px" height="70px">
             </a>
         </td>
         <td>
