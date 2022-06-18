@@ -12,7 +12,12 @@
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&height=35&lines=+Hey!+Welcome+To+My+Github+Profile...)](https://git.io/typing-svg)
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&height=45&lines=+Hey!+Welcome+To+My+Github+Profile...">
+    </a>
+</div>
+
 ---
 
 
@@ -98,179 +103,127 @@
         <img src="https://readme-typing-svg.herokuapp.com?size=15&color=1D11F7&center=true&vCenter=true&multiline=true&lines=Click+Logos+%26+Get+Re-direct+To+Project" width="80%" height="40">
     </a>
 </div>
-
-<table>
-    <tr align="center">
-       <th>Logo</th>
-       <th>Name  & Desciption</th>
-       <th>Status</th> 
-    </tr>
-    <tr align="center">
-        <td>
-            <a href="https://i-am-ghost.github.io/GhostVerse/">
-                <img src="https://octodex.github.com/images/benevocats.png" style="height:80px; width:70px;">
-            </a>
-        </td>
-        <td>
-            <inline style="font-weight:bold">
-                <a href="https://i-am-ghost.github.io/GhostVerse/">
-                    Gh05tVerse
-                </a>
-            </inline>
-            <br>
-            CSE Fundamentals & Tech Blogs 
-        </td>
-        <td>🔁</td>
-    </tr>
+<div align="center">
+    <table>
         <tr align="center">
-        <td>
-            <a href="https://i-am-ghost.github.io/GhostVerse/">
-                <img src="https://octodex.github.com/images/baracktocat.jpg" style="height:80px; width:80px;">
-            </a>
-        </td>
-        <td>
-                <inline style="font-weight:bold">
-                <a href="https://i-am-ghost.github.io/GhostVerse/leetcode">
-                    Problem Solving & Coding 
+        <th>Logo</th>
+        <th>Name  & Desciption</th>
+        <th>Status</th> 
+        </tr>
+        <tr align="center">
+            <td>
+                <a href="https://i-am-ghost.github.io/GhostVerse/">
+                    <img src="https://octodex.github.com/images/benevocats.png" style="height:80px; width:70px;">
                 </a>
+            </td>
+            <td>
+                <inline style="font-weight:bold">
+                    <a href="https://i-am-ghost.github.io/GhostVerse/">
+                        Gh05tVerse
+                    </a>
                 </inline>
                 <br>
-                Interview & Leetcode Coding Questions
-        </td>
-        <td>❌</td>
-    </tr>
-    <tr align="center">
-        <td>
-            <a href="https://i-am-ghost.github.io/i-Am-GhOsT/">
-                <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="70px" height="70px">
-            </a>
-        </td>
-        <td>
-            <inline style="font-weight:bold">
+                CSE Fundamentals & Tech Blogs 
+            </td>
+            <td>🔁</td>
+        </tr>
+            <tr align="center">
+            <td>
+                <a href="https://i-am-ghost.github.io/GhostVerse/">
+                    <img src="https://octodex.github.com/images/baracktocat.jpg" style="height:80px; width:80px;">
+                </a>
+            </td>
+            <td>
+                    <inline style="font-weight:bold">
+                    <a href="https://i-am-ghost.github.io/GhostVerse/leetcode">
+                        Problem Solving & Coding 
+                    </a>
+                    </inline>
+                    <br>
+                    Interview & Leetcode Coding Questions
+            </td>
+            <td>❌</td>
+        </tr>
+        <tr align="center">
+            <td>
                 <a href="https://i-am-ghost.github.io/i-Am-GhOsT/">
-                    Custom GitHub Profile
+                    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="70px" height="70px">
                 </a>
-            </inline>
-            <br>
-            Profile Customization & CI/CD using Github Actions.
-        </td>
-        <td>✅</td>
-    </tr>
-    <tr align="center">
-        <td>
-            <a href="https://github.com/i-Am-GhOsT/Guruji">
-                <img src="https://octodex.github.com/images/hubot.jpg" style="height:70px; width:70px;">
-            </a>
-        </td>
-        <td>
+            </td>
+            <td>
                 <inline style="font-weight:bold">
-                    <a href="https://github.com/i-Am-GhOsT/Guruji">
-                        Guruji
+                    <a href="https://i-am-ghost.github.io/i-Am-GhOsT/">
+                        Custom GitHub Profile
                     </a>
                 </inline>
                 <br>
-                A Chatbot Based on Python, powered with NLP, ML, WebApp Framework
-        </td>
-        <td>✅</td>
-    </tr>
-    <tr align="center">
-        <td>
-            <a href="https://github.com/i-Am-GhOsT/OOPs_ParkingLot">
-                <img src="https://octodex.github.com/images/ironcat.jpg" style="height:70px; width:70px;">
-            </a>
-        </td>
-        <td>
-                <inline style="font-weight:bold">
-                    <a href="https://github.com/i-Am-GhOsT/OOPs_ParkingLot">
-                        Parking Lot
-                    </a>
-                </inline>
-                <br>
-                A Python Based Small Project To Implement A Parking Lot System.
-        </td>
-        <td>✅</td>
-    </tr>
-    <tr align="center">
-        <td>
-            <a href="https://github.com/i-Am-GhOsT/Web-Cam-Pulse-Detection-System">
-                <img src="https://octodex.github.com/images/labtocat.png" style="height:70px; width:70px;">
-            </a>
-        </td>
-        <td>
-                <inline style="font-weight:bold">
-                    <a href="https://github.com/i-Am-GhOsT/Web-Cam-Pulse-Detection-System">
-                        Webcam Pulse Detection System
-                    </a>
-                </inline>
-                <br>
-                A Python Based Project Using OpenCV to detect BPM & heart rate.
-        </td>
-        <td>✅</td>
-    </tr>
-</table>
+                Profile Customization & CI/CD using Github Actions.
+            </td>
+            <td>✅</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <a href="https://github.com/i-Am-GhOsT/Guruji">
+                    <img src="https://octodex.github.com/images/hubot.jpg" style="height:70px; width:70px;">
+                </a>
+            </td>
+            <td>
+                    <inline style="font-weight:bold">
+                        <a href="https://github.com/i-Am-GhOsT/Guruji">
+                            Guruji
+                        </a>
+                    </inline>
+                    <br>
+                    A Chatbot Based on Python, powered with NLP, ML, WebApp Framework
+            </td>
+            <td>✅</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <a href="https://github.com/i-Am-GhOsT/OOPs_ParkingLot">
+                    <img src="https://octodex.github.com/images/ironcat.jpg" style="height:70px; width:70px;">
+                </a>
+            </td>
+            <td>
+                    <inline style="font-weight:bold">
+                        <a href="https://github.com/i-Am-GhOsT/OOPs_ParkingLot">
+                            Parking Lot
+                        </a>
+                    </inline>
+                    <br>
+                    A Python Based Small Project To Implement A Parking Lot System.
+            </td>
+            <td>✅</td>
+        </tr>
+        <tr align="center">
+            <td>
+                <a href="https://github.com/i-Am-GhOsT/Web-Cam-Pulse-Detection-System">
+                    <img src="https://octodex.github.com/images/labtocat.png" style="height:70px; width:70px;">
+                </a>
+            </td>
+            <td>
+                    <inline style="font-weight:bold">
+                        <a href="https://github.com/i-Am-GhOsT/Web-Cam-Pulse-Detection-System">
+                            Webcam Pulse Detection System
+                        </a>
+                    </inline>
+                    <br>
+                    A Python Based Project Using OpenCV to detect BPM & heart rate.
+            </td>
+            <td>⚠️</td>
+        </tr>
+    </table>
+</div>
 <br>
 
-## **Languages and Tools**
-
+## **Github Stats**
 ---
 
-<p align="center"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-    </a>
-    <a href="https://hive.apache.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ghost&show_icons=true&locale=en&layout=compact" alt="i-am-ghost" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost" /></p>
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost"/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost"/>
+</div>
 
 ---
 
