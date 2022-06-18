@@ -220,9 +220,9 @@
 ---
 
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ghost&show_icons=true&locale=en&theme=radical" alt="i-am-ghost"/>
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=i-am-ghost&show_icons=true&locale=en" alt="i-am-ghost"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=i-am-ghost&show_icons=true&locale=en&theme=radical" alt="i-am-ghost"/>
 </div>
 
 ---
