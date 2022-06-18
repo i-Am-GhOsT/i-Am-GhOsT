@@ -88,7 +88,7 @@
 
 ---
 
-## **:briefcase: My Projects**:
+## **💼 My Projects**:
 
 <div align="center">
 
@@ -137,7 +137,7 @@
                 Interview & Leetcode Coding Questions
         </td>
         <td>
-            🧮
+            ❌
         </td>
     </tr>
 </table>
@@ -227,6 +227,6 @@
 
 <br>
 
-:fire: Created By [@Arindam](https://linkedin.com/in/arindam-tanti/)
+🔥 Created By [@Arindam](https://linkedin.com/in/arindam-tanti/)
 
-:heart: If You Loved my ReadMe Temeplate, Please give provide a :star:. You can fork it :wink: and make your own version :smile:.
+❤️ If You Loved my ReadMe Temeplate, Please give provide a ⭐. You can fork it 😉 and make your own version 😇.
