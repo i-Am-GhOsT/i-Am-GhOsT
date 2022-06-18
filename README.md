@@ -98,7 +98,8 @@
         <img src="https://readme-typing-svg.herokuapp.com?size=15&color=1D11F7&center=true&vCenter=true&multiline=true&lines=Click+Logos+%26+Get+Re-direct+To+Project" width="80%" height="40">
     </a>
 </div>
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+
+<table>
     <tr align="center">
        <th>Logo</th>
        <th>Name  & Desciption</th>
@@ -113,15 +114,13 @@
         <td>
             <inline style="font-weight:bold">
                 <a href="https://i-am-ghost.github.io/GhostVerse/">
-                    Gh05tVrerse
+                    Gh05tVerse
                 </a>
             </inline>
             <br>
             CSE Fundamentals & Tech Blogs 
         </td>
-        <td>
-            🔁
-        </td>
+        <td>🔁</td>
     </tr>
         <tr align="center">
         <td>
@@ -132,15 +131,81 @@
         <td>
                 <inline style="font-weight:bold">
                 <a href="https://i-am-ghost.github.io/GhostVerse/leetcode">
-                    Problem Solving And Coding 
+                    Problem Solving & Coding 
                 </a>
                 </inline>
                 <br>
                 Interview & Leetcode Coding Questions
         </td>
+        <td>❌</td>
+    </tr>
+    <tr align="center">
         <td>
-            ❌
+            <a href="https://i-am-ghost.github.io/i-Am-GhOsT/">
+                <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="height:80px; width:80px;">
+            </a>
         </td>
+        <td>
+            <inline style="font-weight:bold">
+                <a href="https://i-am-ghost.github.io/i-Am-GhOsT/">
+                    Custom GitHub Profile
+                </a>
+            </inline>
+            <br>
+            Profile Customization & CI/CD using Github Actions.
+        </td>
+        <td>✅</td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="https://github.com/i-Am-GhOsT/Guruji">
+                <img src="https://octodex.github.com/images/hubot.jpg" style="height:70px; width:70px;">
+            </a>
+        </td>
+        <td>
+                <inline style="font-weight:bold">
+                    <a href="https://github.com/i-Am-GhOsT/Guruji">
+                        Guruji
+                    </a>
+                </inline>
+                <br>
+                A Chatbot Based on Python, powered with NLP, ML, WebApp Framework
+        </td>
+        <td>✅</td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="https://github.com/i-Am-GhOsT/OOPs_ParkingLot">
+                <img src="https://octodex.github.com/images/ironcat.jpg" style="height:70px; width:70px;">
+            </a>
+        </td>
+        <td>
+                <inline style="font-weight:bold">
+                    <a href="https://github.com/i-Am-GhOsT/OOPs_ParkingLot">
+                        Parking Lot
+                    </a>
+                </inline>
+                <br>
+                A Python Based Small Project To Implement A Parking Lot System.
+        </td>
+        <td>✅</td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="https://github.com/i-Am-GhOsT/Web-Cam-Pulse-Detection-System">
+                <img src="https://octodex.github.com/images/labtocat.png" style="height:70px; width:70px;">
+            </a>
+        </td>
+        <td>
+                <inline style="font-weight:bold">
+                    <a href="https://github.com/i-Am-GhOsT/Web-Cam-Pulse-Detection-System">
+                        Webcam Pulse Detection System
+                    </a>
+                </inline>
+                <br>
+                A Python Based Project Using OpenCV to detect BPM & heart rate.
+        </td>
+        <td>✅</td>
     </tr>
 </table>
 <br>
@@ -227,6 +292,8 @@
 </div>
 
 <br>
+
+---
 
 🔥 Created By [@Arindam](https://linkedin.com/in/arindam-tanti/)
 
