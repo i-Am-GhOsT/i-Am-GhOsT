@@ -4,7 +4,7 @@
 <div align="center">    
     <img width="180px" height="220px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" alt="Github Readme Stats"/>
     <h3>
-        <a href="https://i-am-ghost.github.io/GhostVerse/" style="font-weight:bold">
+        <a href="https://i-am-ghost.github.io/i-Am-GhOsT/" style="font-weight:bold">
            About Gh05t
         </a>
     </h3>
@@ -18,7 +18,7 @@
 
 <h2>
     नमस्ते (Namaste)🙏🏻<img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="65px">, I'm 
-    <a href="https://github.com/i-Am-GhOsT/" style="font-weight:bold">
+    <a href="https://i-am-ghost.github.io/i-Am-GhOsT/" style="font-weight:bold">
         Arindam Tanti
     </a>
 </h2>
@@ -35,6 +35,7 @@
     <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost"/>
 </div>
 
+![Evita CI](https://github.com/i-am-ghost/i-am-ghost/actions/workflows/pages-build-deployment.yml/badge.svg)
 ---
 <h5 align="Left" style="font-weight:bold">
     <em>
@@ -84,7 +85,7 @@
 
 - 📄 [**Resume**](https://bit.ly/3J8FoPH)
 
-- 🌐 [**Portfolio Website**](https://github.com/i-Am-GhOsT)
+- 🌐 [**Portfolio Website**](https://i-am-ghost.github.io/i-Am-GhOsT/)
 
 ---
 
@@ -218,9 +219,9 @@
         </b> 
         Also if you want to say 
         <b>
-            hi, I'll be happy to meet you more!
+            hi, I'll be happy to help you!
         </b> 
-        :)
+        😉
     </em>
     
 </div>
