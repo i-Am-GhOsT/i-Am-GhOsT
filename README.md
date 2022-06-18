@@ -33,9 +33,11 @@
 </p>
 <div>  
     <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost"/>
+    <a href="https://github.com/i-Am-GhOsT/i-Am-GhOsT/actions/workflows/pages/pages-build-deployment">
+        <img src="https://github.com/i-Am-GhOsT/i-Am-GhOsT/actions/workflows/pages/pages-build-deployment/badge.svg">
+    </a>
 </div>
 
-![Evita CI](https://github.com/i-am-ghost/i-am-ghost/actions/workflows/pages-build-deployment.yml/badge.svg)
 ---
 <h5 align="Left" style="font-weight:bold">
     <em>
