@@ -105,7 +105,7 @@
     <tr align="center">
         <td>
             <a href="https://i-am-ghost.github.io/GhostVerse/">
-                <img src="https://octodex.github.com/images/Fintechtocat.png" style="height:80px; width:70px;">
+                <img src="https://octodex.github.com/images/benevocats.png" style="height:80px; width:70px;">
             </a>
         </td>
         <td>
