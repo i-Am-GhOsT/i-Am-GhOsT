@@ -209,8 +209,8 @@
 ---
 
 <div align="center">
-    <img height="150" width="100" src="gifs/baby%20ironman%20flying.gif" width="50px">
-    <p>_______________</p>
+    <img height="150" width="100" src="gifs/baby%20ironman%20flying.gif" />
+    <br>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
     <em>
         <b>
