@@ -90,27 +90,55 @@
 
 ## **:briefcase: My Projects**:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=1D11F7&center=true&vCenter=true&multiline=true&lines=Click+Logos+%26+Get+Re-direct+To+Project)](https://git.io/typing-svg)
 <div align="center">
+
+<a href="">
+  <img src="https://readme-typing-svg.herokuapp.com?size=15&color=1D11F7&center=true&vCenter=true&multiline=true&lines=Click+Logos+%26+Get+Re-direct+To+Project" width="80%" height="40">
+</a>
+
 <table>
     <tr align="center">
-       <th>Title</th>
-       <th>Desciption</th>
+       <th>Logo</th>
+       <th>Name  & Desciption</th>
        <th>Status</th> 
     </tr>
     <tr align="center">
         <td>
             <a href="https://i-am-ghost.github.io/GhostVerse/">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJknlnLdacnlXfF8PrSdaihxTu4G4rWFWjgQ&usqp=CAU" style="height:80px; width:65px;">
+                <img src="https://octodex.github.com/images/NUX_Octodex.gif" style="height:80px; width:65px;">
             </a>
         </td>
-        <td> CSE Fundamentals & Tech Blogs </td>
-        <td></td>
+        <td>
+            <inline style="font-weight:bold">
+                <a href="https://i-am-ghost.github.io/GhostVerse/">
+                    Gh05tVrerse
+                </a>
+            </inline>
+            <br>
+            CSE Fundamentals & Tech Blogs 
+        </td>
+        <td>
+            🔁
+        </td>
     </tr>
-        <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <tr align="center">
+        <td>
+            <a href="https://i-am-ghost.github.io/GhostVerse/">
+                <img src="https://octodex.github.com/images/baracktocat.jpg" style="height:80px; width:70px;">
+            </a>
+        </td>
+        <td>
+                <inline style="font-weight:bold">
+                <a href="https://i-am-ghost.github.io/GhostVerse/leetcode">
+                    Problem Solving And Coding 
+                </a>
+                </inline>
+                <br>
+                Interview & Leetcode Coding Questions
+        </td>
+        <td>
+            🧮
+        </td>
     </tr>
 </table>
 </div>
