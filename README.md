@@ -34,7 +34,7 @@
 <div>  
     <img src="https://komarev.com/ghpvc/?username=i-am-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-ghost"/>
     <a href="https://github.com/i-Am-GhOsT/i-Am-GhOsT/actions/workflows/pages/pages-build-deployment">
-        <img src="https://github.com/i-Am-GhOsT/i-Am-GhOsT/actions/workflows/pages/pages-build-deployment/badge.svg">
+        <img src="https://github.com/i-Am-GhOsT/i-Am-GhOsT/actions/workflows/pages/pages-build-deployment/badge.svg" alt="">
     </a>
 </div>
 
@@ -94,12 +94,11 @@
 ## **💼 My Projects**:
 
 <div align="center">
-
-<a href="">
-  <img src="https://readme-typing-svg.herokuapp.com?size=15&color=1D11F7&center=true&vCenter=true&multiline=true&lines=Click+Logos+%26+Get+Re-direct+To+Project" width="80%" height="40">
-</a>
-
-<table>
+    <a href="">
+        <img src="https://readme-typing-svg.herokuapp.com?size=15&color=1D11F7&center=true&vCenter=true&multiline=true&lines=Click+Logos+%26+Get+Re-direct+To+Project" width="80%" height="40">
+    </a>
+</div>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
     <tr align="center">
        <th>Logo</th>
        <th>Name  & Desciption</th>
@@ -144,7 +143,6 @@
         </td>
     </tr>
 </table>
-</div>
 <br>
 
 ## **Languages and Tools**
