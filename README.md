@@ -234,10 +234,9 @@
     <em>
         <b>
             I love connecting with different people.
-        </b> 
-        Also if you want to say 
+        </b>  
         <b>
-            hi, I'll be happy to help you!
+            I'll be happy to help you!
         </b> 
         😉
     </em>
